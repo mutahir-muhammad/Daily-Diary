@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "First Blog",
+      "body": "This is a sample JSON object with some sentences.",
+      "author": "John Doe",
+      "id": 1
+    },
+    {
+      "title": "Opening party",
+      "body": "This is a sample JSON object with some sentences.",
+      "author": "Jane Doe",
+      "id": 2
+    }
+  ]
+}
